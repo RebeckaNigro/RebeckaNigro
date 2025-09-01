@@ -7,7 +7,7 @@ Aqui você encontra meus projetos, estudos e tecnologias que utilizo no dia a di
 ---
 
 ## 🚀 Sobre Mim
-Sou estudante de **Engenharia da Computação** e trabalho com **desenvolvimento de software**.  
+Sou estudante de **Engenharia da Computação**, formada no curso **Técnico em Informática** pelo **IFMS** e trabalho com **desenvolvimento de software**.  
 Atualmente, sou responsável pelo desenvolvimento e manutenção do **site Ecossistema de Inovação CG**, além de realizar manutenções em sites de domínio da Startup SESI Fiems Utilizando algumas linguagens e frameworks no dia-a-dia como: **Vue, React, Node, C# e TypeScript, Python**.  
 Também tenho experiência com **Java, Spring Boot, SQL Server e Docker**, além de **integração de APIs com Inteligência Artificial**, utilizando **Gemini, DeepSeek e OpenAI**.
 
