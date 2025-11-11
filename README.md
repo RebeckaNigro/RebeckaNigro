@@ -47,6 +47,7 @@ Também tenho experiência com **Java, Spring Boot, SQL Server e Docker**, além
 **Estagiária de Desenvolvimento de Software | Startup do Sistema FIEMS**  
 _Abril de 2025 - Atual_  
 - Desenvolvimento e manutenção de software
+- Web Design
 - Tecnologias: **Vue.js, React, Node, C#, TypeScript, Python, Docker**  
 - Integração de APIs REST e **APIs de Inteligência Artificial (Gemini, DeepSeek, OpenAI)**  
 - Modelagem de bancos SQL, Azure DevOps e Docker  
