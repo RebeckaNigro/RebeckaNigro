@@ -65,7 +65,7 @@ Meu trabalho abrange todo o ciclo de vida do software: do levantamento de requis
 
 ## 💼 Experiência
 
-**Desenvolvimento de Software | Startup do Sistema FIEMS**  
+**Desenvolvimento de Software | FIEMS**  
 _Abril de 2025 - Atual_  
 - Desenvolvimento e manutenção de software
 - Web Design
